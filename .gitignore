@@ -1,1 +1,32 @@
-ECHO is on.
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Data files (customize as needed)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.pkl
+*.joblib
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
